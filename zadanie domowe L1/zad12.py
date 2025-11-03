@@ -21,3 +21,4 @@ elif x == 2:
 else:
     c = abs(x - 4)
 print("c(x) =", c)
+#

@@ -17,3 +17,4 @@ else:
     wynik = "Nieznane działanie!"
 
 print("Wynik:", wynik)
+#

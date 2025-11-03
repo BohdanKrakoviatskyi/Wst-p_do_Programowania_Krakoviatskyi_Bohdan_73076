@@ -12,3 +12,4 @@ elif a >= 18:
         print('masz 25% zniżki')
     elif b == 'nie':
         print('wstęp dla ciebe kosztuje 20 zł')
+#

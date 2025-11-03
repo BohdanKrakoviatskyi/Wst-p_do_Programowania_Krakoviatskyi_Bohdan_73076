@@ -10,3 +10,4 @@ if y > z:
     y, z = z, y
 
 print(f"Liczby w kolejności rosnącej: {x}, {y}, {z}")
+#

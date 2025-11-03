@@ -13,3 +13,4 @@ koszt = zuzycie_paliwa * 6.5
 print(f"Długość podróży: {dlugosc_podrozy} km")
 print(f"Przewidywane zużycie paliwa: {zuzycie_paliwa:.2f} l")
 print(f"Szacowany koszt podróży: {koszt:.2f} zł")
+#

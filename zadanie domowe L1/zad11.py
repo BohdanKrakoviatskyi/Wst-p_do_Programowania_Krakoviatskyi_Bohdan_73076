@@ -20,3 +20,4 @@ else:
         print("Jeden pierwiastek rzeczywisty:", x)
     else:
         print("Brak pierwiastków rzeczywistych.")
+#
