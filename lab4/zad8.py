@@ -1,3 +1,4 @@
+
 def potenga(a,n):
     if n==0:
         print("warunek stopu n=0")
